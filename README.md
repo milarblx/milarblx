@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @milarblx
+- 👀 I’m interested in Reverse Engineering and Game Development.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on roblox scripts.
+- 📫 How to reach me: milajohnsonlmao@gmail.com
